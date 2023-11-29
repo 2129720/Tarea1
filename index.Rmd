@@ -1,7 +1,7 @@
 ---
 title: Estadística
 subtitle: "Actividad 1 - Iniciando con R"
-author: "Julio César Ramírez Pacheco"
+author: "Jose Darwin Tinoco Montejo"
 date: "6 de Septiembre de 2023"
 output: 
     prettydoc::html_pretty:
